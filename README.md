@@ -20,9 +20,13 @@ coinerchat WEB端开源信息
 
 ```
 coinerchat-app-public
-├── LICENSE                                     //开源协议
-├── README.md                                   //说明文件
-├── src                                         //源代码
+└─src
+    └─static
+        ├─css
+        ├─file
+        ├─fonts
+        ├─images
+        └─js
 ```
 
 ## 使用说明
