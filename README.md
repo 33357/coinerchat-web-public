@@ -35,4 +35,4 @@ chrome浏览器直接打开
 
 ## 开源协议
 
-[MIT](LICENSE)
+[APACHE 2.0](LICENSE)
